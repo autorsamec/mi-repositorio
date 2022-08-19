@@ -1,0 +1,9 @@
+git init
+git status
+git add .
+git add *.txt
+git add index.html
+git commit -m "Archivos agregado"
+$ git config --global user.email "rodriguezduquealfonso@gmail.com"
+$ git config --global user.name "autorsamec"
+clear
